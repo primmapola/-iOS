@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f6f69977bd4c975c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3684140c6333914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20af523f40849f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сильная ссылка/Swift - вопросы с собесов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b393f62615af77ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "66226a18bd0c4f8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa98847d362effac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "bfe4b2da4f00b741",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93a1efbb6d93482a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5024719238281
+  },
+  "right": {
+    "id": "a5f376f468111929",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76b2ea40ad7a2ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83886a36377ad7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сильная ссылка/Swift - вопросы с собесов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a59705d6f406bfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сильная ссылка/Swift - вопросы с собесов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "693d6af49d1c77fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63bc1727aab6eb68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сильная ссылка/Swift - вопросы с собесов.md"
+              }
+            }
+          },
+          {
+            "id": "23a25b4b5217778d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "20af523f40849f4a",
+  "lastOpenFiles": [
+    "Сильная ссылка/Вопросы.md",
+    "Pasted image 20240412120549.png",
+    "Pasted image 20240412120601.png",
+    "Сильная ссылка/Вопросы Актуальные.md",
+    "_Resources/Без названия.md",
+    "Сильная ссылка/Swift - вопросы с собесов.md",
+    "_Resources/Задачи.md",
+    "_Resources/Что такое inout?.md",
+    "_Resources/Run Loop.md",
+    "_Resources/CALayer.md",
+    "_Resources/Что происходит когда пользователь нажимает на экран? ResponderChain + HitTest.md",
+    "_Resources/В какой момент жизненного цикла у основной view правильно выставляется frame? не только ориентация.md",
+    "_Resources/Сразу ли после инициализации viewController создается его view?.md",
+    "_Resources/Жизненный цикл UIVeiwController.md",
+    "_Resources/Жизненный цикл приложения?.md",
+    "_Resources/Design Patterns.md",
+    "_Resources/Как передать данные между двумя своими приложениями создаными под одной учетной записью?.md",
+    "_Resources/Выравнивание структур.md",
+    "_Resources/Всегда ли плох цикл сильных ссылок?.md",
+    "_Resources/Отличие от GCD & NSOperation.md",
+    "_Resources/Как отменить задачу в GCD.md",
+    "_Resources/Что происходит с параллельной очередью при запуске на ней барьерной операции?.md",
+    "_Resources/Чем отличается Sync от Async?.md",
+    "_Resources/Что такое GCD?.md",
+    "_Resources/Что такое многопоточность?.md",
+    "_Resources/Как хранить объект в массиве по слабой ссылке?.md",
+    "_Resources/Что такое протокол?.md",
+    "Как сохранить",
+    "Как хранить",
+    "Без названия",
+    "Что такое стек",
+    "WEB",
+    "Figma",
+    "Сильная ссылка",
+    "_Resources"
+  ]
+}
